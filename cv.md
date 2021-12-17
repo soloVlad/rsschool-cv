@@ -34,3 +34,6 @@ function getArrayOfUniqueManagers(array) {
   * HTML for beginners (Code-basics)
   * CSS for beginners (Code-basics)
   * Learn JavaScript (Codecademy)
+
+## English:
+  * A2+ (Streamline)
