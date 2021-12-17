@@ -28,18 +28,19 @@
 	</header>
 
 	<main class="main">
-		<div class="container">
+		<div class="container main-container">
 			<section class="section section-profile">
-				<img src="./assets/img/erased_photo.png" alt="young man sitting in an office chair"
-					class="section-profile-photo">
+				<div class="section-image-wrapper">
+					<img src="./assets/img/erased_photo.png" alt="young man sitting in an office chair"
+						class="section-profile-photo">
+				</div>
 				<div class="section-profile-info">
 					<h1 class="main-title">vlad solovey</h1>
-					<div class="underline"></div>
-					<h3 class="section-subtitle">junior web developer</h3>
+					<h3 class="main-subtitle">junior web developer</h3>
 				</div>
 			</section>
 
-			<section class="section section-contacts" id="contacts">
+			<section class="section section-contacts left-section" id="contacts">
 				<h2 class="section-title">contacts</h2>
 				<ul class="section-list">
 					<li class="section-item">
@@ -77,10 +78,13 @@
 					Junior Web Developer. I try to make effort to study at the university and therefore I do not know if
 					I
 					can combine RSschool with study, but I will try, because I think that the university is not able to
-					provide what is needed for work.</p>
+					provide what is needed for work.
+					<br>
+					I use Linux btw :)
+				</p>
 			</section>
 
-			<section class="section section-skills" id="skills">
+			<section class="section section-skills left-section" id="skills">
 				<h2 class="section-title">skills</h2>
 				<ul class="section-list">
 					<li class="section-item">HTML</li>
@@ -96,20 +100,17 @@
 			<section class="section seciton-code" id="code">
 				<h2 class="section-title">code</h2>
 				<pre class="pre">
-					<code>
-	function getArrayOfUniqueManagers(array) {
-		let managerSet = new Set();
-		array.forEach((item) => {
-			managerSet.add(item["manager"]);
-		});
-		
-		return Array.from(managerSet);
-	}
-					</code>
-				</pre>
+<code>function getArrayOfUniqueManagers(array) {
+	let managerSet = new Set();
+	array.forEach((item) => {
+		managerSet.add(item["manager"]);
+	});
+	
+	return Array.from(managerSet);
+}</code></pre>
 			</section>
 
-			<section class="section section-courses" id="courses">
+			<section class="section section-courses left-section" id="courses">
 				<h2 class="section-title">courses</h2>
 				<ul class="section-list">
 					<li class="section-item">Introduction to Linux (Stepik)</li>
@@ -135,7 +136,7 @@
 				</ul>
 			</section>
 
-			<section class="section section-education" id="education">
+			<section class="section section-education left-section" id="education">
 				<h2 class="section-title">education</h2>
 				<p>Belarusian State University (studying)</p>
 			</section>
@@ -148,12 +149,12 @@
 	</main>
 
 	<footer class="footer">
-		<div class="container">
+		<div class="container footer-container">
 			<div class="footer-rights">
 				<span class="footer-copyright">&copy 2021</span>
 				<a href="https://github.com/soloVlad" class="footer-link">soloVlad</a>
 			</div>
-			<a href="https://rs.school/js/">
+			<a href="https://rs.school/js/" class="footer-rs-logo-link">
 				<img src="assets/svg/rss.svg" alt="RSschool logo" class="footer-rs-logo">
 			</a>
 		</div>
