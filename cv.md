@@ -1,4 +1,7 @@
 # Vlad Solovey
+![my photo](https://user-images.githubusercontent.com/81081329/146573184-d6445f7b-af7d-4f0d-a1bd-7f595c92f2a1.jpeg)
+
+
 ## Contacts:
   * **phone:** +375 25 54-533-20
   * **E-mail** connectwithvlad@gmail.com
