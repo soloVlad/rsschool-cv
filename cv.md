@@ -19,17 +19,11 @@ Now I am a student at BSU. I like to learn and try new things. I work well in a 
   * C++
   * Linux Terminal basics
 
-## Code snippet:
-```
-function getArrayOfUniqueManagers(array) {
-  let managerSet = new Set();
-  array.forEach((item) => {
-    managerSet.add(item["manager"]);
-  });
-
-  return Array.from(managerSet);
-}
-```
+## Projects:
+  * [calculator](https://solovlad.github.io/calculator/)
+  * [etch-a-sketch](https://solovlad.github.io/etch-a-sketch/)
+  * [rock-paper-scissord](https://solovlad.github.io/rock-paper-scissors/)
+  * [sign-up-form](https://solovlad.github.io/sign-up-form/)  
 
 ## Education:
   * BSU (studying)
