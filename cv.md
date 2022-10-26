@@ -1,5 +1,5 @@
 # Vlad Solovey
-![my photo](https://user-images.githubusercontent.com/81081329/146573184-d6445f7b-af7d-4f0d-a1bd-7f595c92f2a1.jpeg)
+![my photo](https://user-images.githubusercontent.com/81081329/198131991-886450e8-cd32-4b1f-ba5b-bfaa8db20b34.jpeg)
 
 
 ## Contacts:
@@ -8,7 +8,7 @@
   * **telegram** @solovVlad
 
 ## About me:
-Now I am a student at BSU. I want to take RSschool course in order to raise my skills and get a job as a Junior Web Developer. I try to make effort to study at the university and therefore I do not know if I can combine RSschool with study, but I will try, because I think that the university is not able to provide what is needed for work. 
+Now I am a student at BSU. I like to learn and try new things. I work well in a team, I find a common language with people. I have a dream to create something useful that a lot of people will use.
 
 ## Skills:
   * HTML
@@ -32,11 +32,12 @@ function getArrayOfUniqueManagers(array) {
 ```
 
 ## Education:
-  * BSU(studying)
+  * BSU (studying)
   * Introduction to Linux (Stepik)
   * HTML for beginners (Code-basics)
   * CSS for beginners (Code-basics)
   * Learn JavaScript (Codecademy)
+  * Foundations (The Odin Project)
 
 ## English:
   * A2+ (Streamline)
